@@ -16,3 +16,5 @@
 - Select and deploy an appropriate gateway pattern
 - Implement module-to-module communication
 - Implement and configure offline support
+
+[Return to Table of Contents](README.md)

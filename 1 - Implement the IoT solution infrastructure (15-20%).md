@@ -14,3 +14,5 @@
 ## Configure physical IoT devices
 - [Recommend an appropriate protocol based on device specifications](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-protocol-gateway)
 - Configure device networking, topology, and connectivity
+
+[Return to Table of Contents](README.md)

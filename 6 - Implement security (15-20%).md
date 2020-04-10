@@ -15,3 +15,5 @@
 - Enable ASC for IoT in Azure IoT Hub
 - Create security modules
 - Configure custom alerts
+
+[Return to Table of Contents](README.md)

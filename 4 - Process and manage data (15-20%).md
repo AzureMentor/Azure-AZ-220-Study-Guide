@@ -14,3 +14,5 @@
 - Implement solutions to handle telemetry and time-stamped data
 - Create an Azure Time Series Insights (TSI) environment
 - Connect the IoT Hub and the Time Series Insights (TSI)
+
+[Return to Table of Contents](README.md)

@@ -14,3 +14,5 @@
 - Estimate the capacity required for each service in the solution
 - Conduct performance and stress testing
 - Set up device D2C message tracing by using Azure Distributed Tracing
+
+[Return to Table of Contents](README.md)

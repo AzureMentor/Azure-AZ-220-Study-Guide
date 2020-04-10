@@ -22,3 +22,5 @@
 - Define the operator view
 - Add and manage devices from IoT Central
 - Monitor devices
+
+[Return to Table of Contents](README.md)
